@@ -27,7 +27,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>🔬 ESG Scoring Model</h3>
       <p>AI-based ESG scoring system using Machine Learning & NLP</p>
       <p><em>MSc Thesis — Istanbul Aydın University</em></p>
@@ -35,7 +35,9 @@
       <img src="https://img.shields.io/badge/ML-scikit--learn-orange?style=flat-square"/>
       <img src="https://img.shields.io/badge/NLP-text%20analysis-blueviolet?style=flat-square"/>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
       <h3>🛒 E-Commerce App</h3>
       <p>Full web application with product listings, user system & database</p>
       <p><em>BSc Project — Azad University</em></p>
@@ -45,7 +47,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td width="100%" valign="top" align="center">
       <h3>🌐 Portfolio Website &nbsp; 🚧 Coming Soon</h3>
       <p>Personal portfolio showcasing projects, skills & contact</p>
       <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white"/>
