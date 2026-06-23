@@ -61,7 +61,7 @@
 
 <div align="center">
 
-📧 muhsin.shiraze@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/muhsin-rezai-shiraze) &nbsp;·&nbsp; 📍 Istanbul, Turkey
+📧 muhsin.shiraze@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/muhsin-shiraze.com) &nbsp;·&nbsp; 📍 Istanbul, Turkey
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1f6feb&height=80&section=footer" width="100%"/>
 
