@@ -25,6 +25,16 @@
 ## 📌 Projects
 
 <table>
+   <tr>
+    <td width="100%" valign="top" align="center">
+     <h3>🌐 Portfolio Website</h3>
+      <p>Personal portfolio showcasing projects, skills & contact</p>
+     <img src="https://img.shields.io/badge/HTML5-30363d?style=flat-square&logo=html5&logoColor=e34c26"/>
+<img src="https://img.shields.io/badge/CSS3-30363d?style=flat-square&logo=css3&logoColor=7b68ee"/>
+<img src="https://img.shields.io/badge/JavaScript-30363d?style=flat-square&logo=javascript&logoColor=f1e05a"/>
+      <p><a href="https://noxumoon.github.io/portfolio"><img src="https://img.shields.io/badge/View%20Live-1f6feb?style=flat&logo=googlechrome&logoColor=white"/></a></p>
+    </td>
+  </tr>
   <tr>
     <td width="100%" valign="top">
       <h3>🔬 ESG Scoring Model</h3>
@@ -47,16 +57,7 @@
 <p><a href="https://github.com/noxumoon/esg-scoring-model"><img src="https://img.shields.io/badge/View%20on%20GitHub-238636?style=flat&logo=github&logoColor=white"/></a></p>
     </td>
   </tr>
-  <tr>
-    <td width="100%" valign="top" align="center">
-     <h3>🌐 Portfolio Website</h3>
-      <p>Personal portfolio showcasing projects, skills & contact</p>
-     <img src="https://img.shields.io/badge/HTML5-30363d?style=flat-square&logo=html5&logoColor=e34c26"/>
-<img src="https://img.shields.io/badge/CSS3-30363d?style=flat-square&logo=css3&logoColor=7b68ee"/>
-<img src="https://img.shields.io/badge/JavaScript-30363d?style=flat-square&logo=javascript&logoColor=f1e05a"/>
-      <p><a href="https://noxumoon.github.io/portfolio"><img src="https://img.shields.io/badge/View%20Live-1f6feb?style=flat&logo=googlechrome&logoColor=white"/></a></p>
-    </td>
-  </tr>
+
 </table>
 
 ---
