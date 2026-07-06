@@ -17,8 +17,7 @@
 
 <div align="center">
 
-<kbd>🐍 Python</kbd> &nbsp; <kbd>🌐 JavaScript</kbd> &nbsp; <kbd>📄 HTML5</kbd> &nbsp; <kbd>🎨 CSS3</kbd> &nbsp; <kbd>🐘 PHP</kbd> &nbsp; <kbd>🗄️ MySQL</kbd> &nbsp; <kbd>🔧 Git</kbd> &nbsp; <kbd>🐙 GitHub</kbd>
-
+<kbd>🐍 Python</kbd> &nbsp; <kbd>🌐 JavaScript</kbd> &nbsp; <kbd>📄 HTML5</kbd> &nbsp; <kbd>🎨 CSS3</kbd> &nbsp; <kbd>⚛️ React</kbd> &nbsp; <kbd>🔷 TypeScript</kbd> &nbsp; <kbd>⚡ FastAPI</kbd> &nbsp; <kbd>🔗 LangChain</kbd> &nbsp; <kbd>🐳 Docker</kbd> &nbsp; <kbd>🐘 PHP</kbd> &nbsp; <kbd>🗄️ MySQL</kbd> &nbsp; <kbd>🔧 Git</kbd> &nbsp; <kbd>🐙 GitHub</kbd>
 </div>
 
 ---
@@ -34,24 +33,27 @@
       <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/ML-scikit--learn-orange?style=flat-square"/>
       <img src="https://img.shields.io/badge/NLP-text%20analysis-blueviolet?style=flat-square"/>
+      <p><a href="https://github.com/noxumoon/esg-scoring-model">View on GitHub →</a></p>
     </td>
   </tr>
-  <tr>
+<tr>
     <td width="100%" valign="top">
-      <h3>🛒 E-Commerce App</h3>
-      <p>Full web application with product listings, user system & database</p>
-      <p><em>BSc Project — Azad University</em></p>
-      <img src="https://img.shields.io/badge/PHP-4F5D95?style=flat-square&logo=php&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-e38c00?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HTML%2FCSS-e34c26?style=flat-square&logo=html5&logoColor=white"/>
+      <h3>🌿 Leafy — Plant Disease Chatbot</h3>
+      <p>Full-stack multimodal chatbot that diagnoses plant leaf diseases from a photo and explains the diagnosis conversationally</p>
+      <p><em>Full-Stack Project — FastAPI, React &amp; LangChain</em></p>
+      <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/AI-LangChain-8A2BE2?style=flat-square"/>
+      <p><a href="https://github.com/noxumoon/leaf-disease-app">View on GitHub →</a></p>
     </td>
   </tr>
   <tr>
     <td width="100%" valign="top" align="center">
-      <h3>🌐 Portfolio Website &nbsp; 🚧 Coming Soon</h3>
+     <h3>🌐 Portfolio Website</h3>
       <p>Personal portfolio showcasing projects, skills & contact</p>
       <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-7b68ee?style=flat-square&logo=css3&logoColor=white"/>
+      <p><a href="https://noxumoon.github.io/portfolio">View Live →</a></p>
       <img src="https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=javascript&logoColor=black"/>
     </td>
   </tr>
