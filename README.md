@@ -33,7 +33,7 @@
       <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/ML-scikit--learn-orange?style=flat-square"/>
       <img src="https://img.shields.io/badge/NLP-text%20analysis-blueviolet?style=flat-square"/>
-<p><a href="https://github.com/noxumoon/esg-scoring-model"><img src="https://img.shields.io/badge/View%20on%20GitHub-238636?style=flat&logo=github&logoColor=white"/></a></p>
+<a href="https://github.com/noxumoon/esg-scoring-model"><img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-238636?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 <tr>
