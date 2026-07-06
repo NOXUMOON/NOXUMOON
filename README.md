@@ -30,9 +30,9 @@
       <h3>🔬 ESG Scoring Model</h3>
       <p>AI-based ESG scoring system using Machine Learning & NLP</p>
       <p><em>MSc Thesis — Istanbul Aydın University</em></p>
-      <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ML-scikit--learn-orange?style=flat-square"/>
-      <img src="https://img.shields.io/badge/NLP-text%20analysis-blueviolet?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Python-30363d?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/ML-scikit--learn-30363d?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-text%20analysis-30363d?style=flat-square"/>
 <a href="https://github.com/noxumoon/esg-scoring-model"><img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-238636?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
@@ -41,19 +41,19 @@
       <h3>🌿 Leafy — Plant Disease Chatbot</h3>
       <p>Full-stack multimodal chatbot that diagnoses plant leaf diseases from a photo and explains the diagnosis conversationally</p>
       <p><em>Full-Stack Project — FastAPI, React &amp; LangChain</em></p>
-      <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/AI-LangChain-8A2BE2?style=flat-square"/>
-<p><a href="https://github.com/noxumoon/leaf-disease-app"><img src="https://img.shields.io/badge/View%20on%20GitHub-238636?style=flat&logo=github&logoColor=white"/></a></p>
+     <img src="https://img.shields.io/badge/Python-30363d?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/React-30363d?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/AI-LangChain-30363d?style=flat-square"/>
+<p><a href="https://github.com/noxumoon/esg-scoring-model"><img src="https://img.shields.io/badge/View%20on%20GitHub-238636?style=flat&logo=github&logoColor=white"/></a></p>
     </td>
   </tr>
   <tr>
     <td width="100%" valign="top" align="center">
      <h3>🌐 Portfolio Website</h3>
       <p>Personal portfolio showcasing projects, skills & contact</p>
-      <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-7b68ee?style=flat-square&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=javascript&logoColor=black"/>
+     <img src="https://img.shields.io/badge/HTML5-30363d?style=flat-square&logo=html5&logoColor=e34c26"/>
+<img src="https://img.shields.io/badge/CSS3-30363d?style=flat-square&logo=css3&logoColor=7b68ee"/>
+<img src="https://img.shields.io/badge/JavaScript-30363d?style=flat-square&logo=javascript&logoColor=f1e05a"/>
       <p><a href="https://noxumoon.github.io/portfolio"><img src="https://img.shields.io/badge/View%20Live-1f6feb?style=flat&logo=googlechrome&logoColor=white"/></a></p>
     </td>
   </tr>
