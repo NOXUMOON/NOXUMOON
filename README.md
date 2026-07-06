@@ -33,7 +33,7 @@
       <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/ML-scikit--learn-orange?style=flat-square"/>
       <img src="https://img.shields.io/badge/NLP-text%20analysis-blueviolet?style=flat-square"/>
-      <p><a href="https://github.com/noxumoon/esg-scoring-model">View on GitHub →</a></p>
+<p><a href="https://github.com/noxumoon/esg-scoring-model"><img src="https://img.shields.io/badge/View%20on%20GitHub-238636?style=flat&logo=github&logoColor=white"/></a></p>
     </td>
   </tr>
 <tr>
@@ -44,7 +44,7 @@
       <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/AI-LangChain-8A2BE2?style=flat-square"/>
-      <p><a href="https://github.com/noxumoon/leaf-disease-app">View on GitHub →</a></p>
+<p><a href="https://github.com/noxumoon/leaf-disease-app"><img src="https://img.shields.io/badge/View%20on%20GitHub-238636?style=flat&logo=github&logoColor=white"/></a></p>
     </td>
   </tr>
   <tr>
@@ -53,8 +53,8 @@
       <p>Personal portfolio showcasing projects, skills & contact</p>
       <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-7b68ee?style=flat-square&logo=css3&logoColor=white"/>
-      <p><a href="https://noxumoon.github.io/portfolio">View Live →</a></p>
       <img src="https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=javascript&logoColor=black"/>
+      <p><a href="https://noxumoon.github.io/portfolio"><img src="https://img.shields.io/badge/View%20Live-1f6feb?style=flat&logo=googlechrome&logoColor=white"/></a></p>
     </td>
   </tr>
 </table>
