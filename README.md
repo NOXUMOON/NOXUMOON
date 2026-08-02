@@ -54,7 +54,7 @@
      <img src="https://img.shields.io/badge/Python-30363d?style=flat-square&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/React-30363d?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/AI-LangChain-30363d?style=flat-square"/>
-<p><a href="https://github.com/noxumoon/esg-scoring-model"><img src="https://img.shields.io/badge/View%20on%20GitHub-238636?style=flat&logo=github&logoColor=white"/></a></p>
+<p><a href="https://github.com/NOXUMOON/leaf-disease-app"><img src="https://img.shields.io/badge/View%20on%20GitHub-238636?style=flat&logo=github&logoColor=white"/></a></p>
     </td>
   </tr>
 
